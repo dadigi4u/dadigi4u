@@ -4,8 +4,10 @@
 )](https://www.linkedin.com/in/happiness-owi-3abaa7114/
 ) [![Twitter Badge](https://img.shields.io/badge/-@HAPPINESSOWI-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/HAPPINESSOWI)](https://twitter.com/HappineszO)
 
-     I am aspiring software developer an i'm currently enrolled as a member of the Altschool diploma program studying cloud engineering.
-     My goal is to learn new skills, meet new friends and most especially be one of the top software developer by 
+     I am aspiring software developer an i'm currently enrolled as a 
+     member of the Altschool diploma program studying cloud engineering.
+     My goal is to learn new skills, meet new friends and most
+     especially be one of the top software developer by 
      the time I completeed the Diploma course.
 
 **Here's a quick summary about me**:
